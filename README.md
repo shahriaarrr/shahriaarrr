@@ -23,11 +23,11 @@ class Shahriaarrr(Human):
         "Django REST",
         "OpenCV",
         "linux",
-        "Fast API",
+        "hugo",
     ]
     working_on = [
         "TODO app with django",
-
+        "devevil team website",
     ]
 
 ```
