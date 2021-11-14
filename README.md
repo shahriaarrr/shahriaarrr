@@ -27,7 +27,6 @@ class Shahriaarrr(Human):
     ]
     working_on = [
         "TODO app with django",
-        "devevil team website",
     ]
 
 ```
