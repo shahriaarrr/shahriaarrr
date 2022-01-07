@@ -25,9 +25,7 @@ class Shahriaarrr(Human):
         "linux",
         "hugo",
     ]
-    working_on = [
-        "TODO app with django",
-    ]
+    working_on = "nothing"
 
 ```
 
