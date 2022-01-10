@@ -19,11 +19,8 @@ class Shahriaarrr(Human):
     ]
     Learning = [
         "Computer Engineering",
-        "Django",
-        "Django REST",
-        "OpenCV",
         "linux",
-        "hugo",
+        "numpy"
     ]
     working_on = "nothing"
 
