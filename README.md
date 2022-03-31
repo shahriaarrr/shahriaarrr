@@ -8,21 +8,23 @@ class Shahriaarrr(Human):
     age = 19
     education = "BS student in Computer Engineering"
 
-    programming_lang = ["python", "C++", "java", "Dart"]
-    frameworks = ["Django", "flask", "Django REST"]
+    programming_lang = ["python", "C++", "java"]
+    frameworks = ["Django", "Django REST"]
 
     Favorites = [
         "computer",
         "programming", 
         "book", 
         "writting",
+        "music produce",
     ]
     Learning = [
         "Computer Engineering",
         "linux",
-        "numpy"
+        "numpy", 
+        "openCV"
     ]
-    working_on = "nothing"
+    working_on = ["my wordpress blog", "django blog project"]
 
 ```
 
