@@ -20,9 +20,7 @@ class Shahriaarrr(Human):
     ]
     Learning = [
         "Computer Engineering",
-        "linux",
-        "numpy", 
-        "openCV"
+        "Django",
     ]
     working_on = ["my wordpress blog", "django blog project"]
 
