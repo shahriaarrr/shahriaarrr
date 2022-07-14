@@ -9,7 +9,7 @@ class Shahriaarrr(Human):
     education = "BS student in Computer Engineering"
 
     programming_lang = ["python", "C", "java"]
-    frameworks = ["Django", "Django REST", Flask]
+    frameworks = ["Django", "Django REST", "Flask"]
 
     Favorites = [
         "computer",
