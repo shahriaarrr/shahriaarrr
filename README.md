@@ -27,11 +27,11 @@ class Shahriaarrr(Human):
     ]
     Learning = [
         "Computer Engineering",
-        "Numpy",
         "Pandas",
+        "design patterns",
         "ML",
     ]
-    working_on = ["level up my skills", "tinyML"]
+    working_on = ["level up my skills", "Agah discord server"]
 
 ```
 
