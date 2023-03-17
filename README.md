@@ -4,7 +4,8 @@
 
 ## 📝My Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
- - 🚀 [Hello World](https://blog.shahriaarrr.ir/hello-world)<!-- BLOGPOSTS:END -->
+ - 🚀 [Introduction of Python frameworks for Back-End programming](https://blog.shahriaarrr.ir/python-web-frameworks)
+ - 💯 [Hello World](https://blog.shahriaarrr.ir/hello-world)<!-- BLOGPOSTS:END -->
 
 ## Who i am?
 ```py
