@@ -4,8 +4,9 @@
 
 ## 📝My Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
- - 🚀 [Introduction of Python frameworks for Back-End programming](https://blog.shahriaarrr.ir/python-web-frameworks)
- - 💯 [Hello World](https://blog.shahriaarrr.ir/hello-world)<!-- BLOGPOSTS:END -->
+ - 🚀 [10 Linux command that can cause destruction and should never be run](https://blog.shahriaarrr.ir/ten-dangerous-linux-commands)
+ - 💯 [Introduction of Python frameworks for Back-End programming](https://blog.shahriaarrr.ir/python-web-frameworks)
+ - 💫 [Hello World](https://blog.shahriaarrr.ir/hello-world)<!-- BLOGPOSTS:END -->
 
 ## Who i am?
 ```py
