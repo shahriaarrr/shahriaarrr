@@ -34,7 +34,7 @@ class Shahriaarrr(Human):
         "design patterns",
         "ML",
     ]
-    working_on = ["level up my skills", "Agah discord server"]
+    working_on = ["level up my skills", "SHAZAM"]
 
 ```
 
