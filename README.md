@@ -18,23 +18,24 @@ class Shahriaarrr(Human):
     age = 22
     education = "BS student in Computer Engineering"
 
-    programming_lang = ["python", "C", "java"]
-    frameworks = ["Django", "Django REST", "Flask", "numpy"]
+    programming_lang = ["python", "Go", "java", "js", "type script"]
+    frameworks = ["Django", "Django REST", "discord.py", "numpy", "express"]
 
     Favorites = [
         "computer",
-        "programming", 
+        "programming",
+        "AI",
         "book", 
         "writting",
         "music produce",
     ]
     Learning = [
         "Computer Engineering",
-        "Pandas",
-        "design patterns",
-        "ML",
+        "Nest.js",
+        "type script",
+        "software engineering",
     ]
-    working_on = ["level up my skills", "SHAZAM"]
+    working_on = ["level up my skills", "Yotoo Notify", "simple fastAPI project", "simple nestjs project"]
 
 ```
 
