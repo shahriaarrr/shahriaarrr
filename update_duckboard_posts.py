@@ -7,13 +7,12 @@ def fetchBlogPosts():
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-  
     posts = soup.find_all('article')
     blogPosts = []
     for post in posts[:5]:
         title = post.find('h2').text.strip()
         link = post.find('a')['href'].strip()
-         blogPosts.append(f"- 🔥 [{title}]({link})")
+        blogPosts.append(f"- 🔥 [{title}]({link})")
     
     return blogPosts
 
