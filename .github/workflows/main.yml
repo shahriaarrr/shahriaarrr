@@ -34,7 +34,7 @@ jobs:
           pip install beautifulsoup4 requests
 
       - name: run the blog post updater script
-        run: python update_blog_posts.py
+        run: python update_duckboard_posts.py
 
       - name: commit and push changes
         run: |
