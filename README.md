@@ -2,10 +2,7 @@
 
 ## 📝My Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
- - 🚀 [Security tips that we must follow in django](https://shahriaarrr.hashnode.dev/django-security-tips)
- - 💯 [10 Linux command that can cause destruction and should never be run](https://shahriaarrr.hashnode.dev/ten-dangerous-linux-commands)
- - 💫 [Introduction of Python frameworks for Back-End programming](https://shahriaarrr.hashnode.dev/python-web-frameworks)
- - 💯 [Hello World](https://shahriaarrr.hashnode.dev/hello-world)<!-- BLOGPOSTS:END -->
+<!-- BLOGPOSTS:END -->
 
 ## Who i am?
 ```py
