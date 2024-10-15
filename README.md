@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=21F7A0&center=true&width=435&lines=%E1%9A%B1%E1%9A%A8%E1%9A%B7%E1%9A%BE%E1%9A%A8%E1%9A%B1%E1%9B%96%E1%9A%B2%E1%9B%AB%E1%9B%81%E1%9B%8A%E1%9B%AB%E1%9A%B2%E1%9B%9F%E1%9B%97%E1%9B%81%E1%9B%9C;%E1%9A%A8%E1%9A%B1%E1%9B%96%E1%9B%AB%E1%9B%83%E1%9B%9F%E1%9A%A2%E1%9B%AB%E1%9A%B2%E1%9A%A8%E1%9B%9A%E1%9B%97%E1%9B%AB%E1%9A%A8%E1%9A%BE%E1%9B%9E%E1%9B%AB%E1%9A%B1%E1%9B%96%E1%9A%A8%E1%9B%8A%E1%9B%9F%E1%9A%BE%E1%9A%A8%E1%9B%92%E1%9B%9A%E1%9B%96%E1%9B%AB%E1%9B%88%E1%9B%96%E1%9A%B1%E1%9B%8A%E1%9B%9F%E1%9A%BE)](https://git.io/typing-svg) -->
-
 ## 📝My Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
  - 🚀 [Security tips that we must follow in django](https://shahriaarrr.hashnode.dev/django-security-tips)
@@ -39,9 +37,45 @@ class Shahriaarrr(Human):
 
 ```
 
-[![shahriaarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriaarrr&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/shahriaarrr)
+## 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/shahriaarrr">
+        <img alt="shahriaarrr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shahriaarrr&hide=prs&custom_title=My%20GitHub%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shahriaarrr">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaarrr&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaarrr&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/shahriaarrr)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=shahriaarrr&theme=gotham" />
+  </a>
+</p>
 
+## 🚀 My Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
 
+## 💬 Let's Connect!
+<p align="center">
+  <a href="https://twitter.com/shahriaarrr">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/shahriaarrr?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahriaarrr/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
