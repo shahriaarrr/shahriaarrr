@@ -14,6 +14,7 @@ def fetchBlogPosts():
         link = post.find('a')['href'].strip()
         blogPosts.append(f"- 🔥 [{title}]({link})")
     
+    print(f"Fetched blog posts: {blogPosts}")  # Debug print
     return blogPosts
 
 def updateREADME(blogPosts):
@@ -26,6 +27,7 @@ def updateREADME(blogPosts):
             if line.strip() == "<!-- BLOGPOSTS:START -->":
                 insideBlogSection = True
                 readmeFile.write(line)
+                print("Updating blog posts in README...")  # Debug print
                 for post in blogPosts:
                     readmeFile.write(f"{post}\n")
             elif line.strip() == "<!-- BLOGPOSTS:END -->":
