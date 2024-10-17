@@ -15,7 +15,7 @@ def fetchBlogPosts():
     posts = soup.select(".uael-post__thumbnail")
     blogPosts = []
 
-    for post in posts[:5]:
+    for post in posts[:6]:
         # Find the 'a' tag within each post container
         link_tag = post.find("a")
         if link_tag:
