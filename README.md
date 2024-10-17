@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 📝My Recent Blog Posts:
+## 📝My Recent Posts at Duckboard:
 <!-- BLOGPOSTS:START -->
 - 📝 [نرمافزار آزاد؛ فناوری در خدمت همگان](https://duckboard.net/technology-at-the-service-of-all/)
 - 🚀 [نکات امنیتی که باید در جنگو رعایت کنیم](https://duckboard.net/security-tips-that-we-must-follow-in-django/)
