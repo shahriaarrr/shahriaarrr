@@ -1,10 +1,11 @@
 import re
-
+import random
 import requests
 from bs4 import BeautifulSoup
 
 url = "https://duckboard.net/author/shahriaarrr"
 
+emojis = ["🔥", "🌟", "🚀", "💻", "📚", "🎉", "✨", "📝"]
 
 def fetchBlogPosts():
     response = requests.get(url)
@@ -22,11 +23,12 @@ def fetchBlogPosts():
             link = link_tag.get("href", "").strip()
             if title and link:
                 title = re.sub(r"[\u200b-\u200d\ufeff]", "", title)
-                blogPosts.append(f"- 🔥 [{title}]({link})")
+                # Select a random emoji
+                random_emoji = random.choice(emojis)
+                blogPosts.append(f"- {random_emoji} [{title}]({link})")
 
     print(f"Fetched blog posts: {blogPosts}")  # Debug print
     return blogPosts
-
 
 def updateREADME(blogPosts):
     with open("README.md", "r", encoding="utf8") as readmeFile:
@@ -47,7 +49,7 @@ def updateREADME(blogPosts):
             elif not insideBlogSection:
                 readmeFile.write(line)
 
-
 if __name__ == "__main__":
     blogPosts = fetchBlogPosts()
     updateREADME(blogPosts)
+
