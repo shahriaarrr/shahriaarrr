@@ -2,11 +2,11 @@
 
 ## 📝My Recent Posts at Duckboard:
 <!-- BLOGPOSTS:START -->
-- 📚 [نرمافزار آزاد؛ فناوری در خدمت همگان](https://duckboard.net/technology-at-the-service-of-all/)
-- 🚀 [نکات امنیتی که باید در جنگو رعایت کنیم](https://duckboard.net/security-tips-that-we-must-follow-in-django/)
-- 🚀 [آشنایی با فریمورک های پایتون برای بک اند](https://duckboard.net/python-frameworks-for-backend/)
-- 🚀 [لینتر چیست و چه کاربردهایی دارد؟](https://duckboard.net/what-is-linter/)
-- ✨ [رویداد گلگسی آنپکد 2024 سامسونگ؛ نوآوری یا الهام از اپل؟!](https://duckboard.net/galaxy-unpacked/)
+- 📝 [نرمافزار آزاد؛ فناوری در خدمت همگان](https://duckboard.net/technology-at-the-service-of-all/)
+- 📝 [نکات امنیتی که باید در جنگو رعایت کنیم](https://duckboard.net/security-tips-that-we-must-follow-in-django/)
+- 🌟 [آشنایی با فریمورک های پایتون برای بک اند](https://duckboard.net/python-frameworks-for-backend/)
+- 🌟 [لینتر چیست و چه کاربردهایی دارد؟](https://duckboard.net/what-is-linter/)
+- 🚀 [رویداد گلگسی آنپکد 2024 سامسونگ؛ نوآوری یا الهام از اپل؟!](https://duckboard.net/galaxy-unpacked/)
 <!-- BLOGPOSTS:END -->
 
 ## Who i am?
