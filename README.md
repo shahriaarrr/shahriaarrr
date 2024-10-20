@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![An image of @shahriaarrr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shahriaarrr)](https://holopin.io/@shahriaarrr)
+
 ## 📝My Recent Posts at Duckboard:
 <!-- BLOGPOSTS:START -->
 - ✨ [هکتوبرفست 2024: فرصتی برای مشارکت در دنیای متنباز](https://duckboard.net/an-opportunity-to-contribute-to-the-open-source-world/)
