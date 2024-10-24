@@ -4,11 +4,11 @@
 
 ## 📝My Recent Posts at Duckboard:
 <!-- BLOGPOSTS:START -->
-- 📝 [هکتوبرفست 2024: فرصتی برای مشارکت در دنیای متنباز](https://duckboard.net/an-opportunity-to-contribute-to-the-open-source-world/)
-- 🎉 [نرمافزار آزاد؛ فناوری در خدمت همگان](https://duckboard.net/technology-at-the-service-of-all/)
-- ✨ [نکات امنیتی که باید در جنگو رعایت کنیم](https://duckboard.net/security-tips-that-we-must-follow-in-django/)
-- 🔥 [آشنایی با فریمورک های پایتون برای بک اند](https://duckboard.net/python-frameworks-for-backend/)
-- 🚀 [لینتر چیست و چه کاربردهایی دارد؟](https://duckboard.net/what-is-linter/)
+- 📚 [هکتوبرفست 2024: فرصتی برای مشارکت در دنیای متنباز](https://duckboard.net/an-opportunity-to-contribute-to-the-open-source-world/)
+- 🔥 [نرمافزار آزاد؛ فناوری در خدمت همگان](https://duckboard.net/technology-at-the-service-of-all/)
+- 📝 [نکات امنیتی که باید در جنگو رعایت کنیم](https://duckboard.net/security-tips-that-we-must-follow-in-django/)
+- 🌟 [آشنایی با فریمورک های پایتون برای بک اند](https://duckboard.net/python-frameworks-for-backend/)
+- ✨ [لینتر چیست و چه کاربردهایی دارد؟](https://duckboard.net/what-is-linter/)
 <!-- BLOGPOSTS:END -->
 
 ## Who i am?
