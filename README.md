@@ -33,8 +33,7 @@ class Shahriaarrr(Human):
     ]
     Learning = [
         "Computer Engineering",
-        "Nest.js",
-        "type script",
+        "Bunjs",
         "software engineering",
     ]
     working_on = ["level up my skills", "Yotoo Notify", "simple fastAPI project", "simple nestjs project"]
