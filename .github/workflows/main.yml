@@ -1,48 +1,21 @@
-name: update duckboard posts
-
+name: Duckboard Blog Posts
 on:
   schedule:
-  # every day at midnight
-  - cron: '0 0 * * *'
+    # Runs every 6 hours of the day
+    - cron: '30 * * * *'
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: scrape blog posts and update README
+    name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-      - name: checkout repository
-        uses: actions/checkout@v2
-
-      - name: set up python
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          python-version: '3.x'
-
-      - name: cache python packages
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
-      - name: install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install beautifulsoup4 requests
-
-      - name: run the blog post updater script
-        run: python update_duckboard_posts.py
-
-      - name: commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Updated blog posts in README" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "BLOGPOSTS"
+          feed_list: "https://duckboard.net/author/shahriaarrr/feed/"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,📚) [$title]($url)"
+          commit_message: "recent posts section updated"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
 
