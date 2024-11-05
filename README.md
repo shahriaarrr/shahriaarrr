@@ -20,7 +20,7 @@ class Shahriaarrr(Human):
     education = "BS student in Computer Engineering"
 
     programming_lang = ["python", "Go", "java", "js", "type script"]
-    frameworks = ["Django", "Django REST", "discord.py", "numpy", "express"]
+    frameworks = ["Django", "Django REST", "numpy", "express"]
 
     Favorites = [
         "computer",
