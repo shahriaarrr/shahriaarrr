@@ -16,7 +16,7 @@ from Universe.Earth import Human
 
 class Shahriaarrr(Human):
     full_name = "Shahriar Ghasempour"
-    age = 23
+    age = 24
     education = "BS student in Computer Engineering"
 
     programming_lang = ["python", "Go", "java", "js", "type script"]
